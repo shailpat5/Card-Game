@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="black.cpp" />
+    <ClCompile Include="blue.cpp" />
+    <ClCompile Include="CardFactory.cpp" />
+    <ClCompile Include="Chain.cpp" />
+    <ClCompile Include="chili.cpp" />
+    <ClCompile Include="Deck.cpp" />
+    <ClCompile Include="garden.cpp" />
+    <ClCompile Include="green.cpp" />
+    <ClCompile Include="red.cpp" />
+    <ClCompile Include="DiscardPile.cpp" />
+    <ClCompile Include="Hand.cpp" />
+    <ClCompile Include="soy.cpp" />
+    <ClCompile Include="stink.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="TradeArea.cpp" />
+    <ClCompile Include="Table.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h" />
+    <ClInclude Include="CardFactory.h" />
+    <ClInclude Include="Deck.h" />
+    <ClInclude Include="DiscardPile.h" />
+    <ClInclude Include="Hand.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="TradeArea.h" />
+    <ClInclude Include="Table.h" />
+  </ItemGroup>
+</Project>
